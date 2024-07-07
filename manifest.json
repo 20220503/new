@@ -1,0 +1,16 @@
+{
+    "short_name": "潘历",
+    "name": "潘历",
+    "icons": [
+    {
+      "src": "/android-icon-192x192-seochecker-manifest-115.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+   ],
+   "start_url": "",
+   "background_color": "",
+   "Theme_color": "",
+   "display": ""
+}
