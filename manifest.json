@@ -3,13 +3,13 @@
     "name": "潘历",
     "icons": [
     {
-      "src": "/android-icon-192x192-seochecker-manifest-115.png",
-      "type": "image/png",
-      "sizes": "192x192",
+      "src": "/me.jpg",
+      "type": "image/jpeg",
+      "sizes": "960x960",
       "purpose": "any maskable"
     }
    ],
-   "start_url": "",
+   "start_url": "https://20220503.github.io/new/",
    "background_color": "",
    "Theme_color": "",
    "display": ""
