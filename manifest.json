@@ -1,16 +1,11 @@
 {
     "short_name": "潘历",
     "name": "潘历",
-    "icons": [
-    {
-      "src": "/me.jpg",
-      "type": "image/jpeg",
-      "sizes": "960x960",
-      "purpose": "any maskable"
-    }
-   ],
-   "start_url": "https://20220503.github.io/new/",
-   "background_color": "",
-   "Theme_color": "",
-   "display": ""
+    "lang": "zh-CN",
+    "start_url": "/",
+    "id": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#76d8ff",
+    "dir": "auto",
+    "display": "standalone"
 }
